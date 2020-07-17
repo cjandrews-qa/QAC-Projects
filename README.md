@@ -15,7 +15,7 @@ This repo will contain all the daily project that I complete while training at Q
 	- **Week2**
                 - 2020-07-16 : N/A
 		- 2020-07-17 : 
-        - **Week3**
+	- **Week3**
                 - 2020-07-20 :
                 - 2020-07-21 :
                 - 2020-07-22 :
